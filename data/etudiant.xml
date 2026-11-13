@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="etudiant.xsl"?>
+<etudiant>
+  <record>
+    <cne>xxxx</cne>
+    <nom>xxx</nom>
+    <prenom>xx</prenom>
+    <adress>x</adress>
+  </record>
+</etudiant>
